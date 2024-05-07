@@ -1,36 +1,21 @@
-# Ex04 Places Around Me
-## Date: 30.3.2024
+~~~
+Ex04 Places Around Me
+Date: 30.3.2024
 
-## AIM
+AIM
 To develop a website to display details about the places around my house.
 
-## DESIGN STEPS
+DESIGN STEPS
 
-### STEP 1
-Create a Django admin interface.
+STEP 1: Create a Django admin interface.
+STEP 2: Download your city map from Google.
+STEP 3: Using ```<map>``` tag name the map.
+STEP 4: Create clickable regions in the image using ```<area>``` tag.
+STEP 5: Write HTML programs for all the regions identified.
+STEP 6: Execute the programs and publish them.
 
-### STEP 2
-Download your city map from Google.
+CODE
 
-### STEP 3
-Using ```<map>``` tag name the map.
-
-### STEP 4
-Create clickable regions in the image using ```<area>``` tag.
-
-### STEP 5
-Write HTML programs for all the regions identified.
-
-### STEP 6
-Execute the programs and publish them.
-
-Nmae: Niranjana devi S
-
-Reg No:212221220036
-
-## CODE
-
-~~~
 <html>
     <head>
         <title align="center">THIRUVANNAMALAI</title>
@@ -104,22 +89,10 @@ Reg No:212221220036
 </html>
 
 ~~~
-
-
 ## OUTPUT
-
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/c92ad94f-47a8-4963-ae21-2c2b56e90b00)
-
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/9d8c22b6-8069-4513-9929-bafd9994949a)
-
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/22a0879c-db95-4a18-897e-1a4ef7e5ffbc)
-
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/5394147c-638a-437e-a89f-58488b783f9a)
-
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/10a5f4eb-ea3d-46b5-a8b8-330ed64e77e9)
-
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/27c81c95-9a62-494d-a031-81e3998e90b9)
-
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
