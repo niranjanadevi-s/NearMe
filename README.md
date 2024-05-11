@@ -57,14 +57,14 @@ STEP 6: Execute the programs and publish them.
 </body>
 </html>
 <html>
-~~~~
-~~~
 <body bgcolor="cyan">
     <head>
         <h1 align="center">Thiruvannamalai</h1>
         <h2 align="center"> Kubera Lingam</h2>
     </head>
 <p align="center">The Kubera Lingam is a sacred lingam (an abstract representation of the Hindu deity Shiva) located in the Arunachaleswarar Temple in Thiruvannamalai, Tamil Nadu, India.
+~~~
+~~~
 </body>
 </html>
 <html>
