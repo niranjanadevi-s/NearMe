@@ -62,12 +62,12 @@ STEP 6: Execute the programs and publish them.
 </html>
 <html>
 <body bgcolor="peach">
+~~~
+~~~
     <head>
         <h1 align="center"> Thiruvannamalai</h1>
         <h2 align="center"> Nassipatti</h2>
-~~~
-~~~
-    </head>
+</head>
 <p align="center">Nassipatti is a small village located in the Thiruvannamalai district of Tamil Nadu, India. Like many villages in the region, it likely has its own local economy primarily based on agriculture and small-scale industries.
 </body>
 </html>
