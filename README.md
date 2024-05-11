@@ -87,7 +87,7 @@ STEP 6: Execute the programs and publish them.
 </html>
 ~~~~
 ## OUTPUT
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/c92ad94f-47a8-4963-ae21-2c2b56e90b00)
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/9d8c22b6-8069-4513-9929-bafd9994949a)
+![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/e5b319c3-9562-4c88-a0a6-3feb37b7f731)
+![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/5fe31ff7-61d3-47c0-b57e-75e66c506285)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
