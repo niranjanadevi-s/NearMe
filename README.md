@@ -46,8 +46,6 @@ STEP 6: Execute the programs and publish them.
     </head>
 <p align="center" spacing="center">Built in the traditional Dravidian style of architecture, the temple is believed to be the eighth-largest Hindu temple in the world. The temple complex houses many halls and the most popular one is the thousand-pillared hall, which was constructed during the Vijayanagar period (1336-1646).</p>
 </body>
-~~~
-~~~
 </html>
 <html>
 <body bgcolor="blue">
@@ -55,6 +53,8 @@ STEP 6: Execute the programs and publish them.
         <h1 align="center">Thiruvannamalai</h1>
         <h2 align="center"> Kilnathur</h2>
     </head>
+~~
+~~
 <p align ="center">Kilnathur is a village located in the Thiruvannamalai district of Tamil Nadu, India. Thiruvannamalai is known for its famous Arunachaleswarar Temple, one of the largest temple complexes in India dedicated to the Hindu god Shiva. Kilnathur, like many villages in the district, likely has its own local economy and culture, but I don't have specific information about it. If you're looking for details about Kilnathur, you might want to explore local resources or news outlets for more information.</p>
 </body>
 </html>
@@ -88,8 +88,6 @@ STEP 6: Execute the programs and publish them.
 ~~~
 ## OUTPUT
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/c92ad94f-47a8-4963-ae21-2c2b56e90b00)
-
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/9d8c22b6-8069-4513-9929-bafd9994949a)
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
