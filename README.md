@@ -1,12 +1,8 @@
 ## Ex04 Places Around Me
-
 ## Date: 30.3.2024
-
 ## AIM
 To develop a website to display details about the places around my house.
-
 ## DESIGN STEPS
-
 STEP 1: Create a Django admin interface.
 
 STEP 2: Download your city map from Google.
@@ -18,7 +14,6 @@ STEP 4: Create clickable regions in the image using ```<area>``` tag.
 STEP 5: Write HTML programs for all the regions identified.
 
 STEP 6: Execute the programs and publish them.
-
 ## Program
 ~~~
 <html>
@@ -27,7 +22,7 @@ STEP 6: Execute the programs and publish them.
     </head>
     <body>
         <h1 align ="center">THIRUVANNAMALAI</h1>
-        <h2 align ="center">PREETHI.B [212221220040]</h2>
+        <h2 align ="center">Niranjana Devi S [212221220036]</h2>
     </body>
 </html>
 <img src="Screenshot 2024-03-21 141746.png" width="1500" height="550" usemap="#image-map">
@@ -63,8 +58,6 @@ STEP 6: Execute the programs and publish them.
         <h2 align="center"> Kubera Lingam</h2>
     </head>
 <p align="center">The Kubera Lingam is a sacred lingam (an abstract representation of the Hindu deity Shiva) located in the Arunachaleswarar Temple in Thiruvannamalai, Tamil Nadu, India.
-~~~
-~~~
 </body>
 </html>
 <html>
@@ -72,6 +65,8 @@ STEP 6: Execute the programs and publish them.
     <head>
         <h1 align="center"> Thiruvannamalai</h1>
         <h2 align="center"> Nassipatti</h2>
+~~~
+~~~
     </head>
 <p align="center">Nassipatti is a small village located in the Thiruvannamalai district of Tamil Nadu, India. Like many villages in the region, it likely has its own local economy primarily based on agriculture and small-scale industries.
 </body>
