@@ -1,4 +1,5 @@
 ## Ex04 Places Around Me
+
 ## Date: 30.3.2024
 
 ## AIM
@@ -94,7 +95,6 @@ STEP 6: Execute the programs and publish them.
 
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/9d8c22b6-8069-4513-9929-bafd9994949a)
 
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/22a0879c-db95-4a18-897e-1a4ef7e5ffbc
-
+![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/5394147c-638a-437e-a89f-58488b783f9a)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
