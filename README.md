@@ -7,13 +7,18 @@ To develop a website to display details about the places around my house.
 ## DESIGN STEPS
 
 STEP 1: Create a Django admin interface.
+
 STEP 2: Download your city map from Google.
+
 STEP 3: Using ```<map>``` tag name the map.
+
 STEP 4: Create clickable regions in the image using ```<area>``` tag.
+
 STEP 5: Write HTML programs for all the regions identified.
+
 STEP 6: Execute the programs and publish them.
 
-## CODE
+## Program
 ~~~
 <html>
     <head>
@@ -62,11 +67,9 @@ STEP 6: Execute the programs and publish them.
         <h1 align="center">Thiruvannamalai</h1>
         <h2 align="center"> Kubera Lingam</h2>
     </head>
-
 <p align="center">The Kubera Lingam is a sacred lingam (an abstract representation of the Hindu deity Shiva) located in the Arunachaleswarar Temple in Thiruvannamalai, Tamil Nadu, India. It is believed to be associated with the Hindu god Kubera, who is considered the god of wealth and prosperity in Hindu mythology. Devotees visit the Arunachaleswarar Temple to offer prayers and seek blessings from the Kubera Lingam for wealth and prosperity in their lives. T</p>
 </body>
 </html>
-
 <html>
 <body bgcolor="peach">
     <head>
@@ -76,7 +79,6 @@ STEP 6: Execute the programs and publish them.
 <p align="center">Nassipatti is a small village located in the Thiruvannamalai district of Tamil Nadu, India. Like many villages in the region, it likely has its own local economy primarily based on agriculture and small-scale industries. Thiruvannamalai district is known for its spiritual significance due to the presence of the Arunachaleswarar Temple, which attracts pilgrims from across the country. However, I don't have specific information about Nassipatti itself. If you're looking for more details about Nassipatti, local resources or news outlets in the region might have more information.</p>
 </body>
 </html>
-
 <html>
 <body bgcolor="orange">
     <head>
@@ -86,7 +88,6 @@ STEP 6: Execute the programs and publish them.
 <p align="center">Reliance Industries, led by Mukesh Ambani, is one of India's largest conglomerates with interests in various sectors including petrochemicals, refining, oil & gas exploration, telecommunications, and retail. As of my last update, I don't have specific information about Reliance's presence in Thiruvannamalai, but it's possible they have operations or investments in the region given their extensive nationwide presence.</p>
 </body>
 </html>
-
 ~~~
 ## OUTPUT
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/c92ad94f-47a8-4963-ae21-2c2b56e90b00)
@@ -94,12 +95,6 @@ STEP 6: Execute the programs and publish them.
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/9d8c22b6-8069-4513-9929-bafd9994949a)
 
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/22a0879c-db95-4a18-897e-1a4ef7e5ffbc
-
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/5394147c-638a-437e-a89f-58488b783f9a)
-
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/10a5f4eb-ea3d-46b5-a8b8-330ed64e77e9)
-
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/27c81c95-9a62-494d-a031-81e3998e90b9)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
