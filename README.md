@@ -45,8 +45,6 @@ STEP 6: Execute the programs and publish them.
         <h2 align="center"> Arunachaleswarar Temple</h2>
     </head>
 <p align="center" spacing="center">Built in the traditional Dravidian style of architecture, the temple is believed to be the eighth-largest Hindu temple in the world. The temple complex houses many halls and the most popular one is the thousand-pillared hall, which was constructed during the Vijayanagar period (1336-1646).</p>
-~~~
-~~~
 </body>
 </html>
 <html>
@@ -59,6 +57,8 @@ STEP 6: Execute the programs and publish them.
 </body>
 </html>
 <html>
+~~~~
+~~~
 <body bgcolor="cyan">
     <head>
         <h1 align="center">Thiruvannamalai</h1>
