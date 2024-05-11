@@ -30,9 +30,7 @@ STEP 6: Execute the programs and publish them.
         <h2 align ="center">PREETHI.B [212221220040]</h2>
     </body>
 </html>
-
 <img src="Screenshot 2024-03-21 141746.png" width="1500" height="550" usemap="#image-map">
-
 <map name="image-map">
     <area target="_self" alt="Kilnathur" title="Kilnathur" href="Kilnathur.html" coords="377,203" shape="rect">
     <area target="_self" alt="Arunachaleswarar" title="Arunachaleswarar" href="Arunachaleswarar.html" coords="200,218" shape="poly">
@@ -40,7 +38,6 @@ STEP 6: Execute the programs and publish them.
     <area target="_self" alt="KuberaLingam" title="KuberaLingam" href="Kubera.html" coords="173,40" shape="rect">
     <area target="_self" alt="Nassipatti" title="Nassipatti" href="Nassipatti.html" coords="339,523,NaN" shape="circle">
 </map>
-
 <html>
 <body bgcolor="pink">
     <head>
@@ -50,18 +47,15 @@ STEP 6: Execute the programs and publish them.
 <p align="center" spacing="center">Built in the traditional Dravidian style of architecture, the temple is believed to be the eighth-largest Hindu temple in the world. The temple complex houses many halls and the most popular one is the thousand-pillared hall, which was constructed during the Vijayanagar period (1336-1646).</p>
 </body>
 </html>
-
 <html>
 <body bgcolor="blue">
     <head>
         <h1 align="center">Thiruvannamalai</h1>
         <h2 align="center"> Kilnathur</h2>
     </head>
-
 <p align ="center">Kilnathur is a village located in the Thiruvannamalai district of Tamil Nadu, India. Thiruvannamalai is known for its famous Arunachaleswarar Temple, one of the largest temple complexes in India dedicated to the Hindu god Shiva. Kilnathur, like many villages in the district, likely has its own local economy and culture, but I don't have specific information about it. If you're looking for details about Kilnathur, you might want to explore local resources or news outlets for more information.</p>
 </body>
 </html>
-
 <html>
 <body bgcolor="cyan">
     <head>
@@ -95,6 +89,5 @@ STEP 6: Execute the programs and publish them.
 
 ![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/9d8c22b6-8069-4513-9929-bafd9994949a)
 
-![image](https://github.com/niranjanadevi-s/NearMe/assets/141748873/5394147c-638a-437e-a89f-58488b783f9a)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
